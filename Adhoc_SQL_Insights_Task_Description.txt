@@ -1,0 +1,101 @@
+Task 1. Croma India Product wise sales report for fiscal year 2021.
+  
+Description: As a product owner, I want to generate a report 
+of individual product sales (aggregated on a monthly basis at the product level)  
+for Croma India Customers for FY-2021 so that I can track 
+individual product sales and run further product analytics on it in excel.
+
+Requirement: The report should have the following fields.
+1. Month
+2. Product Name
+3. Variant
+4. Sold Quantity
+5. Gross Price per Item
+6. Gross Price Total.
+
+********************************************************************************
+Task 2. Gross Monthly Total Sales report for Croma India Customer
+
+Description : As a product owner, I need an aggregate monthly gross sales report 
+for Croma India so that I can track how much sales this particular customer is 
+generating for AtliQ and manage our relationships accordingly.
+
+Requirement : The report should have the following fields:->
+1. Month
+2. Total Gross sales to Croma India in this month
+
+*********************************************************************************
+Task 3. Generate a yearly report for Croma India where there are two columns
+
+Description :As a product owner, I need an aggregate yearly gross sales report 
+for Croma India so that I can track how much sales this particular customer is 
+generating for atliq and manage our relationships accordingly.
+
+Requirement : The report should have the following fields:->
+1. Fiscal_year
+2. Total Gross Sales amount In that year from Croma
+
+**********************************************************************************
+Task 4. Get top 5 market by net sales in fiscal year 2021
+
+Description : As a product owner, I want a report for top markets by net sales for
+a given financial year so that i can take appropriate actions to address any 
+potential issues.
+
+Requirement : The report should have the following fields:->
+1. Markets
+2. Net sales in millions
+
+**********************************************************************************
+Task 5. Get top 5 products by net sales in fiscal year 2021
+
+Description : As a product owner, I want a report for top products by net sales for
+a given financial year so that i can take appropriate actions to address any 
+potential issues.
+
+Requirement : The report should have the following fields:->
+1. Product
+2. Net sales in millions
+
+**********************************************************************************
+ Task 6. Get top 5 customers by net sales in fiscal year 2021
+
+Description : As a product owner, I want a report for top customers by net sales for
+a given financial year so that i can take appropriate actions to address any 
+potential issues.
+
+Requirement : The report should have the following fields:->
+1. Customer
+2. Net sales in millions
+**********************************************************************************
+Task 7. Forecast Accuracy for all customers for a given fiscal year
+
+Description : As a product owner, I need an aggregate forecast accuracy report for
+all the customers for a given fiscal year so that I can track the accuracy of the
+forecast we make for these customers.
+
+Requirement : The report should have the folloewing fields :->
+1. Customer Code, Name, Market
+2. Total Sold Quantity
+3. Total Forecast Quantity
+4. Net Error
+5. Absolute Error
+6. Forecast Accuracy %
+**********************************************************************************
+Task 8. Net Sale Percentage Share Global
+
+Description : As a product Owner, I want to see a bar chart report for FY-2021
+for top 10 markets by %net sales.
+
+Requirement : Bar Chart
+**********************************************************************************
+Task. 9 Net Sales % Share by Region
+
+Description : AS a product owner, I want to see region wise(APAC,EU,NA,LATAM) %age
+net sales breakdown by customers in a respective region so that I can perform my
+regional analysis on financial performance of the company.
+
+Requirement : The end result should be pie charts for FY 2021.
+
+**********************************************************************************
+Task. 10 Retrieve the top 2 markets in every region by their gross sales amount in FY=2021.

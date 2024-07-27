@@ -4,8 +4,6 @@
 
 This project is a part of the Codebasics Data Analysis Bootcamp titled "Data Analytics Bootcamp 3.0: With Practical Job Assistance + AI Module". The project focuses on analyzing various aspects of AtliQ Hardware's operations, including finance, supply chain, market dynamics, and sales trends.
 
-![Project Title](image.png)
-
 ## Tasks Overview
 
 The project involves the following tasks:
